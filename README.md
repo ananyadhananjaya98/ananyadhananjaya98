@@ -1,9 +1,9 @@
 <h1> Hey There! I'm new🌼. </h1>
 
-p.italic {
-  font-style: italic;
-}
+<h3> Get in touch </h3>
 
-<p> Get in touch </p>
+🌈 Instagram: ananya.dhananjaya
+🌞 LinkedIn: https://www.linkedin.com/in/ananyadhananjaya-4100b01a5/
+❄️ Twitter: https://twitter.com/ananya_d1998
 
 
