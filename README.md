@@ -2,7 +2,7 @@
 
 <h3> Get in touch </h3>
 
-🌈 Instagram: ananya.dhananjaya
+🌈 Instagram:
 
 🌞 LinkedIn: https://www.linkedin.com/in/ananyadhananjaya-4100b01a5/
 
