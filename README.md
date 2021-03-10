@@ -1,4 +1,4 @@
-<h1> Hey There! I beleive in Multiverse🌼. </h1>
+<h1> I beleive in Multiverse🌼. Do you? </h1>
 
 <h3> Get in touch </h3>
 
